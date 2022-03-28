@@ -1,0 +1,14 @@
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_28-04-2022_Polymorphism-Static-Extension_Practice\Practice\PolymorphismPractice\bin\Debug\netcoreapp3.1\PolymorphismPractice.exe
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_28-04-2022_Polymorphism-Static-Extension_Practice\Practice\PolymorphismPractice\bin\Debug\netcoreapp3.1\PolymorphismPractice.deps.json
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_28-04-2022_Polymorphism-Static-Extension_Practice\Practice\PolymorphismPractice\bin\Debug\netcoreapp3.1\PolymorphismPractice.runtimeconfig.json
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_28-04-2022_Polymorphism-Static-Extension_Practice\Practice\PolymorphismPractice\bin\Debug\netcoreapp3.1\PolymorphismPractice.runtimeconfig.dev.json
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_28-04-2022_Polymorphism-Static-Extension_Practice\Practice\PolymorphismPractice\bin\Debug\netcoreapp3.1\PolymorphismPractice.dll
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_28-04-2022_Polymorphism-Static-Extension_Practice\Practice\PolymorphismPractice\bin\Debug\netcoreapp3.1\PolymorphismPractice.pdb
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_28-04-2022_Polymorphism-Static-Extension_Practice\Practice\PolymorphismPractice\obj\Debug\netcoreapp3.1\PolymorphismPractice.csproj.AssemblyReference.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_28-04-2022_Polymorphism-Static-Extension_Practice\Practice\PolymorphismPractice\obj\Debug\netcoreapp3.1\PolymorphismPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_28-04-2022_Polymorphism-Static-Extension_Practice\Practice\PolymorphismPractice\obj\Debug\netcoreapp3.1\PolymorphismPractice.AssemblyInfoInputs.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_28-04-2022_Polymorphism-Static-Extension_Practice\Practice\PolymorphismPractice\obj\Debug\netcoreapp3.1\PolymorphismPractice.AssemblyInfo.cs
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_28-04-2022_Polymorphism-Static-Extension_Practice\Practice\PolymorphismPractice\obj\Debug\netcoreapp3.1\PolymorphismPractice.csproj.CoreCompileInputs.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_28-04-2022_Polymorphism-Static-Extension_Practice\Practice\PolymorphismPractice\obj\Debug\netcoreapp3.1\PolymorphismPractice.dll
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_28-04-2022_Polymorphism-Static-Extension_Practice\Practice\PolymorphismPractice\obj\Debug\netcoreapp3.1\PolymorphismPractice.pdb
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_28-04-2022_Polymorphism-Static-Extension_Practice\Practice\PolymorphismPractice\obj\Debug\netcoreapp3.1\PolymorphismPractice.genruntimeconfig.cache
